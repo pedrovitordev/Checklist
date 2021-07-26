@@ -1,0 +1,58 @@
+﻿@using CheckList.ViewModel.CheckListItem
+@model CheckList.ViewModel.CheckListItem.ListagemViewModel
+
+
+@{
+    ViewData["Title"] = "Lista de Items";
+}
+
+<div class="text-center">
+    <h1 class="display-3">Lista de Items</h1>
+</div>
+
+<div class = "botao">
+    <a href="/CheckListItem/Adicionar" class="btn btn-outline-success" role="button" aria-pressed="true">Adicionar Novo Item</a>
+</div>
+
+@if (@Model.msgSucesso != null)
+{
+    <p> @Model.msgSucesso </p>
+}
+
+@if (@Model.msgErro != null)
+{
+    <ul>
+        @foreach (var msgErro in @Model.msgErro)
+        {
+            <li>@msgErro</li>
+        }
+    </ul>            
+}
+
+
+<table class="table">
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">Realizado?</th>
+        <th scope="col">Titulo</th>
+        <th scope="col">Id SubItem</th>
+         <th scope="col">Ações</th>
+        
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (Itens itens in @Model.Itens)
+    {
+        <tr>
+            <td>@itens.realizado</td>
+            <td>@itens.titulo</td>
+            <td>@itens.subItem</td>
+            <td>
+                <a href="/CheckListItem/Editar/@itens.id" class="btn btn-outline-primary" role="button" aria-pressed="true">Editar</a>
+                <a href="/CheckListItem/Remover/@itens.id" class="btn btn-outline-danger" role="button" aria-pressed="true">Remover</a>
+            </td>
+        </tr>
+        
+    }
+    </tbody>
+</table>

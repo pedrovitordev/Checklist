@@ -1,0 +1,168 @@
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\appsettings.json
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\CheckList.exe
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\CheckList.deps.json
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\CheckList.runtimeconfig.json
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\CheckList.runtimeconfig.dev.json
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\CheckList.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\ref\CheckList.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\CheckList.pdb
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\CheckList.Views.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\CheckList.Views.pdb
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.csproj.AssemblyReference.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.AssemblyInfoInputs.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.AssemblyInfo.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.csproj.CoreCompileInputs.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorAssemblyInfo.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorAssemblyInfo.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\staticwebassets\CheckList.StaticWebAssets.Manifest.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\staticwebassets\CheckList.StaticWebAssets.xml
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\scopedcss\bundle\CheckList.styles.css
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.TagHelpers.input.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.TagHelpers.output.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorCoreGenerate.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Adicionar.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Editar.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Listagem.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Remover.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Item\Adicionar.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Item\Editar.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Item\Listagem.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Item\Remover.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorTargetAssemblyInfo.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorTargetAssemblyInfo.cs
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.Views.pdb
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.csproj.CopyComplete
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\ref\CheckList.dll
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.pdb
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\CheckList.genruntimeconfig.cache
+C:\Users\mikae\RiderProjects\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Item\Marcacao.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\appsettings.json
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\CheckList.exe
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\CheckList.deps.json
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\CheckList.runtimeconfig.json
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\CheckList.runtimeconfig.dev.json
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\CheckList.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\ref\CheckList.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\CheckList.pdb
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\CheckList.Views.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\CheckList.Views.pdb
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.csproj.AssemblyReference.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.AssemblyInfoInputs.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.AssemblyInfo.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.csproj.CoreCompileInputs.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorAssemblyInfo.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorAssemblyInfo.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\staticwebassets\CheckList.StaticWebAssets.Manifest.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\staticwebassets\CheckList.StaticWebAssets.xml
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\scopedcss\bundle\CheckList.styles.css
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.TagHelpers.input.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.TagHelpers.output.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorCoreGenerate.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Adicionar.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Editar.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Listagem.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Remover.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorTargetAssemblyInfo.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.RazorTargetAssemblyInfo.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.Views.pdb
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.csproj.CopyComplete
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\ref\CheckList.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.pdb
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\CheckList.genruntimeconfig.cache
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckListItem\Adicionar.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckListItem\Editar.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckListItem\Listagem.cshtml.g.cs
+C:\Users\PedroVitorDev\Downloads\Checklist trabalho final Leonardo\CheckList\CheckList\obj\Debug\net5.0\Razor\Views\CheckListItem\Remover.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\appsettings.json
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\CheckList.exe
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\CheckList.deps.json
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\CheckList.runtimeconfig.json
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\CheckList.runtimeconfig.dev.json
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\CheckList.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\ref\CheckList.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\CheckList.pdb
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\CheckList.Views.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\CheckList.Views.pdb
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.csproj.AssemblyReference.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.AssemblyInfoInputs.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.AssemblyInfo.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.csproj.CoreCompileInputs.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.RazorAssemblyInfo.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.RazorAssemblyInfo.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\staticwebassets\CheckList.StaticWebAssets.Manifest.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\staticwebassets\CheckList.StaticWebAssets.xml
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\scopedcss\bundle\CheckList.styles.css
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.TagHelpers.input.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.TagHelpers.output.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.RazorCoreGenerate.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\CheckListItem\Adicionar.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\CheckListItem\Editar.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\CheckListItem\Listagem.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\CheckListItem\Remover.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Adicionar.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Editar.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Listagem.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\CheckList\Remover.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.RazorTargetAssemblyInfo.cache
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.RazorTargetAssemblyInfo.cs
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.Views.pdb
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.csproj.CopyComplete
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\ref\CheckList.dll
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.pdb
+C:\Users\PedroVitorDev\Desktop\Checklist trabalho final Leonardo\Trabalho final Leo\CheckList\obj\Debug\net5.0\CheckList.genruntimeconfig.cache

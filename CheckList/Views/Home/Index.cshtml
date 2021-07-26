@@ -1,0 +1,51 @@
+﻿@model CheckList.ViewModel.Home.IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Análise Dos Dados</h1>
+</div>
+
+<div class="alinhar">
+<div class="bs-example">
+    <div class="container--md">
+        <div class="row mb-4">
+            <div class="col-sm-5">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Número de CheckList</h5>
+                        <p class="card-text">O número de Checklists é de: @Model.totalCheckList</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5">                                                                    
+                <div class="card">                                                                        
+                    <div class="card-body">                                                           
+                        <h5 class="card-title">Número de Itens</h5>                               
+                        <p class="card-text">O número de Itens é de: @Model.totalItens</p> 
+                    </div>
+                </div>
+            </div> 
+            <div class="col-sm-5">                                                                       
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Número de Itens Realizados</h5>
+                        <p class="card-text">O número de Itens Realizados é de: @Model.itensRealizados</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5"> 
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Número de Itens Não Realizados</h5>
+                        <p class="card-text">O número de Itens Não Realizados é de: @Model.itensNaoRealizados</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>  
+
+                                                                                                                        

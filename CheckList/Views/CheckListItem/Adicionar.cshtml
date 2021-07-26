@@ -1,0 +1,71 @@
+﻿@using System.Diagnostics.Eventing.Reader
+@model CheckList.ViewModel.CheckListItem.AdicionarViewModel
+
+@{
+    ViewData["Title"] = "Adicionar Item";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Adicionar um Item</h1>
+</div>
+
+@if (@Model.msgErros != null)
+{
+    <ul>
+        @foreach (var msgErro in @Model.msgErros)
+        {
+            <li>@msgErro</li>
+        }
+    </ul>            
+}
+
+<form action="Adicionar" method="post">
+
+    <div class="form-group">
+        <label for="Titulo">Titulo: </label>
+        <input type="text" class="form-control" id="titulo" aria-describedby="emailHelp" name="titulo">
+    </div>
+    
+    <div class="form-group">
+        <label for="checklistId">CheckList: </label>
+        <select id="checklistId" name="checklistId">
+            @if (@Model.CheckLists!= null)
+            {
+                @foreach (var checkList in @Model.CheckLists)
+                {
+                    <option value="@checkList.id">@checkList.nome</option>
+                }
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="SubItem">SubItem: </label>
+        <select id="checklistItemId" name="checklistItemId">
+            <option value="0">Nenhum</option>
+            
+            @if (@Model.Itens != null)
+            {
+                @foreach (var item in @Model.Itens)
+                {
+                    <option value="@item.id">@item.titulo</option>
+                }
+            }
+            
+        </select>
+    </div>
+    
+    <div class="form-group">
+        <label for="Realizado">Realizado? </label>
+        <select id="realizado" name="realizado">
+            <option value="Sim">Sim</option>
+            <option value="Nao">Não</option>
+        </select>
+    </div>
+    
+    <div class="form-group">
+        <label for="DataRealizado">Se foi realizado, informe a data de relização:</label>
+        <input type="date" class="form-control" id="dataRealizacao " aria-describedby="emailHelp" name="dataRealizacao ">
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Criar </button>
+</form>

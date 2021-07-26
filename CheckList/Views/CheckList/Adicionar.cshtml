@@ -1,0 +1,27 @@
+﻿@model CheckList.ViewModel.CheckList.AdicionarViewModel
+@{
+    ViewData["Title"] = "Adicionar CheckList";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Adicionar uma CheckList</h1>
+</div>
+
+@if (@Model.msgErros != null)
+{
+     <ul>
+         @foreach (var msgErro in @Model.msgErros)
+                {
+                    <li>@msgErro</li>
+                }
+     </ul>            
+}
+
+<form action="Adicionar" method="post">
+    <div class="form-group">
+        <label for="Nome">Nome: </label>
+        <input type="text" class="form-control" id="Nome" aria-describedby="emailHelp" name="Nome">
+    </div>
+    <button type="submit" class="btn btn-primary">Criar </button>
+</form>

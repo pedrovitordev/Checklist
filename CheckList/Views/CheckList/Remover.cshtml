@@ -1,0 +1,32 @@
+﻿@model CheckList.ViewModel.CheckList.RemoverViewModel
+
+@{
+    ViewData["Title"] = "Remover CheckList";
+}
+
+<div class="text-center">
+    <h1 class="display-3">Remover CheckList</h1>
+</div>
+
+@if (@Model.msgErros != null)
+{
+    <ul>
+        @foreach (var msgErro in @Model.msgErros)
+        {
+            <li>@msgErro</li>
+        }
+    </ul>            
+}
+
+<form action="Remover" method="post">
+    <div class="form-group">
+    
+        <label for="Id">Id: @Model.id </label>
+        <input type="text" class="form-control" id="id" aria-describedby="emailHelp" name="id" value="@Model.id">
+        <label for="Nome">Nome: </label>
+        <input type="text" class="form-control" id="Nome" aria-describedby="emailHelp" name="Nome" value="@Model.Nome">
+        
+    </div>
+
+    <button type="submit" class="btn btn-danger">Remover </button>
+</form>
